@@ -6,3 +6,6 @@ I just created a docker image and when the image is containerized, it would star
 
 
 The docker image can be pulled using the command docker pull kcthogiti/mysimpleapp
+
+https://hub.docker.com/r/kcthogiti/mysimpleapp/
+
